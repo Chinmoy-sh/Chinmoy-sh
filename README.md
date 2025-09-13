@@ -28,11 +28,3 @@ I am a student and early-stage developer with a strong interest in Artificial In
 
 ## Professional Vision
 I believe technology should empower people. I aim to contribute to building technologies that empower people and make knowledge universally accessible. My long-term ambition is to establish a global technology company or platform that drives innovation in AI, education, and accessibility.  
-
----
-
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/chinmoy-kumar-biswas/)  
-- [Email](mailto:bangladeshchinmoy@example.com)
-- [Facebook](https://www.facebook.com/chinmoy.kumar.biswas.8.18.9.4.9)
-- [Instagram](https://www.instagram.com/itz_me_chinmoy_impaired/)  
