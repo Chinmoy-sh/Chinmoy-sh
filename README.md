@@ -6,12 +6,12 @@ I am a student and early-stage developer with a strong interest in Artificial In
 
 
 
-## Current Work
+## 💼 Current Work
 - Developing next-generation applications designed to improve knowledge accessibility and global connectivity requires a multifaceted approach that integrates artificial intelligence, machine learning, and natural language processing to create intuitive, personalized, and multilingual user experiences.  
 
 
 
-## Learning Focus
+## 🧠 Learning Focus
 - Programming and software development practices  
 - Machine Learning and Artificial Intelligence  
 - Cross-platform mobile app development with Flutter  
@@ -19,12 +19,12 @@ I am a student and early-stage developer with a strong interest in Artificial In
 
 
 
-## Skills & Tools
+## 💡 Skills & Tools
 - **Languages**: Python, Dart (Flutter), C++ , Javascript  
 - **Frameworks & Tools**: Git, GitHub, VS Code, Firebase, Express.js, Angular, Tensorflow, Pytorch  
 - **Interests**: Artificial Intelligence, Software Development, Startups  
 
 
 
-## Professional Vision
+## 🔭 Professional Vision
 I believe technology should empower people. I aim to contribute to building technologies that empower people and make knowledge universally accessible. My long-term ambition is to establish a global technology company or platform that drives innovation in AI, education, and accessibility.  
