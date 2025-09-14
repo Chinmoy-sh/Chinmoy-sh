@@ -30,9 +30,10 @@ I am a student and early-stage developer with a strong interest in Artificial In
 I believe technology should empower people. I aim to contribute to building technologies that empower people and make knowledge universally accessible. My long-term ambition is to establish a global technology company or platform that drives innovation in AI, education, and accessibility.  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoy-sh&layout=compact) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoy-sh&layout=compact) ![Chinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmoy-sh&show_icons=true&theme=default) 
 
-![Chinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmoy-sh&show_icons=true&theme=default) ![GitHub Streak](https://streak-stats.demolab.com/?user=Chinmoy-sh&theme=default) 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chinmoy-sh&theme=default) 
 
 
 ![Chinmoy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chinmoy-sh&theme=github-compact)
