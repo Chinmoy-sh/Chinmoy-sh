@@ -39,6 +39,6 @@ I believe technology should empower people. I aim to contribute to building tech
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chinmoy-sh&theme=default&cache_seconds=1800)
 
 
-![Chinmoy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chinmoy-sh&theme=github-compact)
+![Chinmoy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chinmoy-sh&theme=github-compact&cache_seconds=1800)
 
 
