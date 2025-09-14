@@ -31,5 +31,6 @@ I believe technology should empower people. I aim to contribute to building tech
 
 ![Chinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmoy-sh&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoy-sh&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoy-sh&layout=compact)  ![GitHub Streak](https://streak-stats.demolab.com/?user=Chinmoy-sh&theme=default)
+
 
