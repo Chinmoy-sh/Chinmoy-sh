@@ -42,4 +42,3 @@ I believe technology should empower people. I aim to contribute to building tech
 ![Chinmoy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chinmoy-sh&theme=github-compact)
 
 
-
