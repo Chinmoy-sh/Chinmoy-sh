@@ -6,7 +6,7 @@ I am a student and early-stage developer with a strong interest in Artificial In
 
 
 
-## 💼 Current Work
+## 🚀 What I'm Working On
 - Developing next-generation applications designed to improve knowledge accessibility and global connectivity requires a multifaceted approach that integrates artificial intelligence, machine learning, and natural language processing to create intuitive, personalized, and multilingual user experiences.  
 
 
