@@ -4,14 +4,16 @@
 
 I am a student and early-stage developer with a strong interest in Artificial Intelligence, software engineering, and global innovation. My current focus is on building solid foundations in Python, AI/ML, and Flutter, while developing projects that merge technical excellence with real-world usability.  
 
-![Tech Badge](https://img.shields.io/badge/Technology-%E2%9C%A8-00ff00?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 
 
 ## 🚀 What I'm Working On
-- Developing next-generation applications designed to improve knowledge accessibility and global connectivity requires a multifaceted approach that integrates artificial intelligence, machine learning, and natural language processing to create intuitive, personalized, and multilingual user experiences.  
+- Developing next-generation applications designed to improve knowledge accessibility and global connectivity requires a multifaceted approach that integrates artificial intelligence, machine learning, and natural language processing to create intuitive, personalized, and multilingual user experiences.
+
+![Tech Badge](https://img.shields.io/badge/Technology-%E2%9C%A8-00ff00?style=for-the-badge&logo=github&logoColor=white) ![AI Badge](https://img.shields.io/badge/Artificial%20Intelligence-%F0%9F%A4%96-00ff00?style=for-the-badge)
+
+
+
 
 
 
