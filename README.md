@@ -10,7 +10,9 @@ I am a student and early-stage developer with a strong interest in Artificial In
 ## 🚀 What I'm Working On
 - Developing next-generation applications designed to improve knowledge accessibility and global connectivity requires a multifaceted approach that integrates artificial intelligence, machine learning, and natural language processing to create intuitive, personalized, and multilingual user experiences.
 
-![Technology](https://img.shields.io/badge/Technology-%23000000.svg?style=for-the-badge&logo=techcrunch&logoColor=00FF00) ![AI](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=00FF00)
+
+![Technology](https://img.shields.io/badge/Technology-2E2E2E?style=for-the-badge&logo=techcrunch&logoColor=00FF00) ![AI](https://img.shields.io/badge/AI-2E2E2E?style=for-the-badge&logo=artificial-intelligence&logoColor=00FF00)
+
 
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1e1e1e?style=for-the-badge&logo=tensorflow&logoColor=00ff88) ![Global Impact](https://img.shields.io/badge/Global%20Innovation-1e1e1e?style=for-the-badge&logo=earth&logoColor=00ff88)
