@@ -25,8 +25,6 @@ I am a student and early-stage developer with a strong interest in Artificial In
 
 
 
-
-
 ## 🧠 Learning Focus
 - Programming and software development practices  
 - Machine Learning and Artificial Intelligence  
