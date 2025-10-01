@@ -29,7 +29,7 @@ I am a student and a developer with a strong interest in several fields includin
 
 
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1e1e1e?style=for-the-badge&logo=tensorflow&logoColor=00ff88) ![Global Impact](https://img.shields.io/badge/Global%20Innovation-1e1e1e?style=for-the-badge&logo=earth&logoColor=00ff88)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1e1e1e?style=for-the-badge&logo=tensorflow&logoColor=00ff88) ![Global Impact](https://img.shields.io/badge/Global%20Innovation-1e1e1e?style=for-the-badge&logo=earth&logoColor=00ff88)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=000000)
 
 
