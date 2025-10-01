@@ -2,7 +2,7 @@
 
 **Student | Aspiring Technologist | Focused on AI, Software Development & Global Innovation**  
 
-I am a student and a developer with a strong interest in Artificial Intelligence, software engineering, and global innovation. My current focus is on building solid foundations in Python, AI/ML, and Flutter, while developing projects that merge technical excellence with real-world usability.  
+I am a student and a developer with a strong interest in several fields including Artificial Intelligence, software engineering, and global innovation. My current focus is on building solid foundations in Python, AI/ML, and Flutter, while developing projects that merge technical excellence with real-world usability.  
 
 
 
