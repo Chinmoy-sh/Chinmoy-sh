@@ -1,4 +1,8 @@
+<p align="center">
+
 # Chinmoy Kumar Biswas
+
+</p>
 
 **Student | Aspiring Technologist | Focused on AI, Software Development & Global Innovation**  
 
