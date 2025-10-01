@@ -1,5 +1,5 @@
 <p align="center">
- # Chinmoy Kumar Biswas
+<h1>Chinmoy Kumar Biswas</h1>
 </p>
 
 **Student | Aspiring Technologist | Focused on AI, Software Development & Global Innovation**  
