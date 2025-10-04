@@ -27,7 +27,7 @@
 
 ```text
 🐍 Advanced Python Programming & Best Practices
-🤖 Super Intelligent Models and AGI Development
+🧠 Super Intelligent Models and AGI Development
 🤖 Machine Learning & Deep Learning (TensorFlow, PyTorch)
 📱 Flutter & Dart for Mobile Development
 ☁️ Cloud Computing & DevOps
