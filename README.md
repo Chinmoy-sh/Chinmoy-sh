@@ -14,7 +14,6 @@
 🎓 **Student** passionate about **Artificial Intelligence** and **Software Development**  
 💡 **Aspiring Technologist** focused on creating innovative solutions  
 🌍 Building applications that improve **knowledge accessibility** and **global connectivity**  
-🔭 Currently strengthening foundations in **Python**, **AI/ML**, and **Flutter**  
 
 ## 🛠️ What I'm Working On
 
