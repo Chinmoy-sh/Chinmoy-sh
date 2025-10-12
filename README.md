@@ -60,7 +60,7 @@
 
 ## 🎯 Professional Vision
 
-> *"Technology should empower people and make knowledge universally accessible."*
+> *"Technology should empower people and make knowledge accessible to anyone anywhere of the world."*
 
 🚀 **Mission**: Building innovative solutions that bridge the gap between complex technology and everyday users  
 🌍 **Vision**: Establishing a global technology platform driving innovation in **AI**, **education**, and **accessibility**  
