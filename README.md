@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 **Student** highly passionate about **Artificial Intelligence** and **Software Development**  
+🎓 **Student** highly passionate about **Computers**, **Artificial Intelligence**, **Super Intelligent Models** and **Software Development**  
 💡 **Aspiring Technologist** focused on creating innovative solutions  
 🌍 Building applications that improve **knowledge accessibility** and **global connectivity**  
 
