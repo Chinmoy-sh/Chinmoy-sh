@@ -21,7 +21,7 @@
 - 📱 **Cross-platform mobile apps** using Flutter
 - 🧠 **Machine Learning models** for real-world problem solving
 - 🌐 **Web applications** with modern frameworks
-- 📚 **Knowledge sharing platforms** to make information accessible
+- 📚 **Knowledge sharing platforms** to make information accessible to anyone anywhere of hte world
 
 ## 🎯 Current Learning Focus
 
