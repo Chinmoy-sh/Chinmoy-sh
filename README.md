@@ -83,7 +83,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect Together
 
 <div align="center">
   
