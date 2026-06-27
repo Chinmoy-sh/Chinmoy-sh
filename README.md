@@ -63,7 +63,7 @@
 
 ## Professional Vision
 
-> **"Security is not about breaking systems. It's about understanding them deeply enough to make them safer."**
+> "Security is not about breaking systems. It's about understanding them deeply enough to make them safer."
 
 **Mission**: Build secure, intelligent and accessible software  
 **Vision**: Contribute to a future where AI and Cybersecurity create trustworthy technology  
