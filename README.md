@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Chinmoy+Kumar+Biswas+%F0%9F%91%8B;Student+%7C+Security+Researcher;Building+the+Future+of+IT+and+Cybersecurity" alt="Typing SVG" />
 </div>
@@ -154,4 +153,3 @@
 <div align="center">
   <i>⭐ Crafted with passion by <a href="https://github.com/Chinmoy-sh">Chinmoy-sh</a> | Architecting secure systems and engineering the digital frontier.</i>
 </div>
-```
