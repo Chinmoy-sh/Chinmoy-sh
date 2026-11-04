@@ -72,9 +72,10 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chinmoy-sh&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chinmoy-sh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Chinmoy-sh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
+
 
 ---
 
