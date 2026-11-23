@@ -77,6 +77,9 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chinmoy-sh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   -->
 </div>
+## 📊 GitHub Stats & Developer Rank
+
+![GitHub Stats](https://vercel.app)
 
 ---
 
